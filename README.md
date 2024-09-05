@@ -8,5 +8,8 @@
 
 ## Multimodality
 
+## RAG
+- Question-Based Retrieval using Atomic Units for Enterprise RAG [[Paper]](https://arxiv.org/pdf/2405.12363v2)[[GitHub]]()[[Review]]()
+
 ## Self-supervised Learning
 - SimCLR: A Simple Framework for Contrastive Learning of Visual Representations [[Paper]](https://arxiv.org/abs/2002.05709)[[Review]](https://fluoridated-trust-1fc.notion.site/SimCLR-A-Simple-Framework-for-Contrastive-Learning-of-Visual-Representations-6adee112129e4a24a4ff59c1ea16b3d4?pvs=4)
