@@ -5,7 +5,7 @@
 ## Fine-grained classification with zero shot learning
 - Attention을 기반으로 한 방법이 많으며, 최근에 나온 I2DFormer의 경우 human annotation 필요 없이 document를 이용해 attribute 대체
 - Fine-Grained Zero-Shot Learning: Advances, Challenges, and Prospects(NIPS2024) [[Paper]](https://arxiv.org/pdf/2401.17766)[[Review]](https://fluoridated-trust-1fc.notion.site/Fine-Grained-Zero-Shot-Learning-Advances-Challenges-and-Prospects-1279c7dcb9c4805e8b45e65dc166b7af?pvs=4)
--MSDN: Mutually Semantic Distillation Network for Zero-Shot Learning (CVPR2022)
+- MSDN: Mutually Semantic Distillation Network for Zero-Shot Learning (CVPR2022)
 [[Paper]](https://arxiv.org/pdf/2203.03137)[[GitHub]](https://github.com/shiming-chen/MSDN)[[Review]](https://fluoridated-trust-1fc.notion.site/MSDN-Mutually-Semantic-Distillation-Network-for-Zero-Shot-Learning-1299c7dcb9c48038845bfa4063b6469f?pvs=4)
 - I2DFormer: Learning Image to Document Attention (CVPR2023)
 for Zero-Shot Image Classification
